@@ -38,7 +38,7 @@ export const portfolio = {
   skills: ["Ethereum", "Solana", "Sui", "Public Audits"],
   image: "https://raw.githubusercontent.com/luffy487/files/main/profile.jpg",
   resume:
-    "https://drive.google.com/file/d/1P82LRI8uwbzjAlOaawqIHsF4fBVYmRcO/view?usp=sharing",
+    "https://drive.google.com/file/d/1XQB1fVZVxu8KumRgdVAWBD-XWIxlaWjG/view?usp=drive_link",
   skill_images: [
     {
       name: "Ethereum",
