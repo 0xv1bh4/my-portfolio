@@ -5,7 +5,7 @@ export const portfolio = {
   social: [
     {
       name: "Github",
-      url: "https://github.com/luffy487",
+      url: "https://github.com/0xv1bh4",
       image: "/github.png",
     },
     {
@@ -25,7 +25,7 @@ export const portfolio = {
     },
     {
       name: "X",
-      url: "https://x.com/vibhakar487",
+      url: "https://x.com/0xv1bh4",
       image: "/x.png",
     },
     {
